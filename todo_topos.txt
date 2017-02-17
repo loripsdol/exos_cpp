@@ -9,7 +9,7 @@ SSL
 SSH (certificats)
 Symfony (ORM doctrine/ annotations)
 NodeJS, Angular, Elasticsearch, Redis
-Raspberry PI
+Raspberry PI (Raspbian)
 Vim
 Serveur Samba
 Serveur DHCP
