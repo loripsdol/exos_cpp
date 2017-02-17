@@ -3,6 +3,8 @@
 
 Git & GitHub
 API Rest
+VPN
+VPS
 SSL
 SSH (certificats)
 Symfony (ORM doctrine/ annotations)
@@ -11,9 +13,10 @@ Raspberry PI
 Vim
 Serveur Samba
 Serveur DHCP
-Securisation serveur HTTP (GNU/linuxaniain)
-Debian (install...)
+Securisation serveur HTTP (GNU/linux)
+Debian (install, config...)
 Sauvegardes
-Restaurations ransomwares
-
+Restaurations fichiers suite à ransomwares
+RAID
+NAS
 
