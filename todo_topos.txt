@@ -1,0 +1,9 @@
+
+2017 Cours
+git & github
+API Rest
+SSL
+SSH (certificats)
+Symfony (ORM doctrine/ annotations)
+NodeJS, Angular, Elasticsearch, Redis
+Raspberry PI
