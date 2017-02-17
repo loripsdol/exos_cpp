@@ -1,1 +1,1 @@
-# Projets de cours 2017 - Test
+# Projets de cours works in progress 2017
