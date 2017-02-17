@@ -1,1 +1,1 @@
-# Projets de cours works in progress 2017
+# Works in progress (WIP) 2017
