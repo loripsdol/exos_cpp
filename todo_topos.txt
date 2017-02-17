@@ -19,4 +19,6 @@ Sauvegardes
 Restaurations fichiers suite à ransomwares
 RAID
 NAS
+Virtualisation (VMWare, virtualBox...)
+
 
