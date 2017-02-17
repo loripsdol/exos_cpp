@@ -1,9 +1,15 @@
 
-2017 Cours
-git & github
+2017 Cours & mementos
+
+Git & GitHub
 API Rest
 SSL
 SSH (certificats)
 Symfony (ORM doctrine/ annotations)
 NodeJS, Angular, Elasticsearch, Redis
 Raspberry PI
+Vim
+Serveur Samba
+Serveur DHCP
+Securisation serveur HTTP (GNU/linux)
+
