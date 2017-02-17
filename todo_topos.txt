@@ -11,5 +11,9 @@ Raspberry PI
 Vim
 Serveur Samba
 Serveur DHCP
-Securisation serveur HTTP (GNU/linux)
+Securisation serveur HTTP (GNU/linuxaniain)
+Debian (install...)
+Sauvegardes
+Restaurations ransomwares
+
 
