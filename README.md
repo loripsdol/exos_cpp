@@ -1,3 +1,1 @@
-# exos_c-
-Divers exercices en C++
-Test
+# juste un test
