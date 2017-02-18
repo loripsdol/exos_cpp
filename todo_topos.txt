@@ -6,10 +6,11 @@ API Rest
 VPN
 VPS
 SSL
-SSH (certificats)
-Symfony (ORM doctrine/ annotations)
+SSH (serveur SSH, certificats...)
+Symfony (ORM doctrine/ annotations...)
 NodeJS, Angular, Elasticsearch, Redis
 Raspberry PI (Raspbian)
+Arduino
 Vim
 Serveur Samba
 Serveur DHCP
