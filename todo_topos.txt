@@ -3,10 +3,11 @@
 
 Git & GitHub
 API Rest
-VPN
-VPS
+VPN (sécurisez vos connexions)
+VPS (les solutions)
 SSL
 SSH (serveur SSH, certificats...)
+Apache (hôtes virtuels)
 Symfony (ORM doctrine/ annotations...)
 NodeJS, Angular, Elasticsearch, Redis
 Raspberry PI (Raspbian)
