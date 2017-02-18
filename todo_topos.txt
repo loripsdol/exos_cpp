@@ -21,7 +21,7 @@ Sauvegardes
 Restaurations fichiers suite à ransomwares
 RAID
 NAS
-Virtualisation (VMWare, virtualBox...)
+Virtualisation (VMware, VirtualBox...)
 CMS (Koken, Prestashop, Magento...)
-MOOCS
+MOOCS (et API MOOCS)
 
