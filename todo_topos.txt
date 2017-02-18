@@ -1,4 +1,4 @@
-
+i
 2017 Cours & mementos
 todo list
 
@@ -6,7 +6,7 @@ Git & GitHub
 API Rest
 VPN (sécurisez vos connexions)
 VPS (les solutions)
-SSL
+SSL (TLS)
 SSH (serveur SSH, certificats...)
 Apache (hôtes virtuels)
 Symfony (ORM doctrine/ annotations...)
