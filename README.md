@@ -1,5 +1,3 @@
-# Loripsdol's works in progress in 2017
+# Works in progress - 2017
 More studies very soon
-
-
 
