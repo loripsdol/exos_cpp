@@ -1,5 +1,5 @@
-# Wishes and works in progress - loripsdol - 2017
-
+# Loripsdol's works in progress in 2017
+More studies very soon
 
 
 
